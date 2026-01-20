@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.3">
   <diagram name="Page-1" id="c9db0220-8083-56f3-ca83-edcdcd058819">
-    <mxGraphModel dx="1905" dy="3421.5" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="190" dy="2449.5" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" parent="0" style=";html=1;" />
@@ -1015,27 +1015,6 @@
         <mxCell id="-f4Cf10kNdPVjTCmOffm-762" parent="-f4Cf10kNdPVjTCmOffm-759" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Admin" vertex="1">
           <mxGeometry height="30" width="60" x="60" y="16.210000000000036" as="geometry" />
         </mxCell>
-        <mxCell id="-f4Cf10kNdPVjTCmOffm-779" parent="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;fillColor=#f5f5f5;strokeColor=#666666;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#333333;align=center;container=0;" value="&lt;b data-path-to-node=&quot;9,3,0&quot; data-index-in-node=&quot;0&quot; style=&quot;background-color: transparent; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193));&quot;&gt;Buffer Time:&lt;/b&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193));&quot;&gt; Time between exams in the same room (e.g., 15 minutes for cleaning/transition).&lt;/span&gt;&lt;br&gt;&lt;b data-path-to-node=&quot;9,4,0&quot; data-index-in-node=&quot;0&quot; style=&quot;background-color: transparent; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193));&quot;&gt;Supervisor Ratio:&lt;/b&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193));&quot;&gt; Parameters defining how many invigilators are needed based on student count (e.g., 1 invigilator per 20 students).&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;b data-path-to-node=&quot;9,2,0&quot; data-index-in-node=&quot;0&quot; style=&quot;background-color: transparent; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193));&quot;&gt;Venue/Room Allocation:&lt;/b&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193));&quot;&gt; The physical room (e.g., &lt;/span&gt;&lt;i data-path-to-node=&quot;9,2,0&quot; data-index-in-node=&quot;48&quot; style=&quot;background-color: transparent; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193));&quot;&gt;Amphi Central&lt;/i&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193));&quot;&gt;, &lt;/span&gt;&lt;i data-path-to-node=&quot;9,2,0&quot; data-index-in-node=&quot;63&quot; style=&quot;background-color: transparent; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193));&quot;&gt;Salle 4&lt;/i&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193));&quot;&gt;).&lt;/span&gt;&lt;br&gt;&lt;b data-path-to-node=&quot;9,1,0&quot; data-index-in-node=&quot;0&quot; style=&quot;background-color: transparent; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193));&quot;&gt;Time Slot: normal days vs ramadan&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b data-path-to-node=&quot;13,1,0&quot; data-index-in-node=&quot;0&quot; style=&quot;background-color: transparent; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193));&quot;&gt;Capacity Limit:&lt;/b&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193));&quot;&gt; A parameter that prevents assigning 100 students to a room with only 60 seats.&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193));&quot;&gt;fix 2 to 3 days of booking&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="360" width="710" x="3056" y="1593.61" as="geometry" />
-        </mxCell>
-        <mxCell id="-f4Cf10kNdPVjTCmOffm-780" parent="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;fillColor=#222222;strokeColor=none;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#000000;align=center;" value="" vertex="1">
-          <mxGeometry height="24" width="710" x="3056" y="1607.11" as="geometry" />
-        </mxCell>
-        <mxCell id="-f4Cf10kNdPVjTCmOffm-781" parent="-f4Cf10kNdPVjTCmOffm-780" style="html=1;shadow=0;dashed=0;fillColor=none;strokeColor=none;shape=mxgraph.bootstrap.rect;fontColor=#999999;fontSize=14;whiteSpace=wrap;" value="&lt;font style=&quot;&quot;&gt;&lt;strong data-start=&quot;338&quot; data-end=&quot;352&quot; style=&quot;font-size: 11px; text-align: left;&quot;&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;Vigil&lt;/font&gt;&lt;/strong&gt;&lt;b style=&quot;color: rgb(0, 0, 0); text-align: left;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;color: rgb(51, 51, 255); font-size: 8px;&quot;&gt;ENSA&lt;/font&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="24" width="71" y="-2" as="geometry" />
-        </mxCell>
-        <mxCell id="-f4Cf10kNdPVjTCmOffm-782" parent="-f4Cf10kNdPVjTCmOffm-780" style="html=1;shadow=0;dashed=0;fillColor=none;strokeColor=none;shape=mxgraph.bootstrap.rect;fontColor=#FFFFFF;whiteSpace=wrap;fontSize=10;" value="&lt;font style=&quot;color: rgb(204, 204, 204);&quot;&gt;Plannings&lt;/font&gt;" vertex="1">
-          <mxGeometry height="24" width="71" x="90" as="geometry" />
-        </mxCell>
-        <mxCell id="-f4Cf10kNdPVjTCmOffm-783" parent="-f4Cf10kNdPVjTCmOffm-780" style="html=1;shadow=0;dashed=0;fillColor=none;strokeColor=none;shape=mxgraph.bootstrap.rect;fontColor=#CCCCCC;whiteSpace=wrap;fontSize=10;" value="&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;Settings&lt;/font&gt;" vertex="1">
-          <mxGeometry height="24" width="62.125" x="161" as="geometry" />
-        </mxCell>
-        <mxCell id="-f4Cf10kNdPVjTCmOffm-784" parent="-f4Cf10kNdPVjTCmOffm-780" style="html=1;shadow=0;dashed=0;fillColor=none;strokeColor=none;shape=mxgraph.bootstrap.rect;fontColor=#CCCCCC;whiteSpace=wrap;fontSize=10;" value="Profile" vertex="1">
-          <mxGeometry height="24" width="62.125" x="585.75" as="geometry" />
-        </mxCell>
-        <mxCell id="-f4Cf10kNdPVjTCmOffm-785" parent="-f4Cf10kNdPVjTCmOffm-780" style="html=1;shadow=0;dashed=0;fillColor=none;strokeColor=none;shape=mxgraph.bootstrap.rect;fontColor=#CCCCCC;whiteSpace=wrap;fontSize=10;" value="Log Out" vertex="1">
-          <mxGeometry height="24" width="62.125" x="647.875" as="geometry" />
-        </mxCell>
         <mxCell id="-f4Cf10kNdPVjTCmOffm-788" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="" vertex="1">
           <mxGeometry height="322" width="145.5" x="3610" y="2037.5" as="geometry" />
         </mxCell>
@@ -1376,10 +1355,10 @@
           <mxGeometry height="120" width="280" x="1470" y="1930" as="geometry" />
         </mxCell>
         <mxCell id="4jv3EA4blr1hTnNA3w6e-3" parent="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;fillColor=#f5f5f5;strokeColor=#666666;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#333333;align=center;container=0;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="360" width="710" x="3820" y="1593.6100000000001" as="geometry" />
+          <mxGeometry height="360" width="710" x="3045.5" y="1599.0600000000002" as="geometry" />
         </mxCell>
         <mxCell id="4jv3EA4blr1hTnNA3w6e-4" parent="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;fillColor=#222222;strokeColor=none;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#000000;align=center;" value="" vertex="1">
-          <mxGeometry height="24" width="710" x="3820" y="1607.1100000000001" as="geometry" />
+          <mxGeometry height="24" width="710" x="3045.5" y="1612.5600000000002" as="geometry" />
         </mxCell>
         <mxCell id="4jv3EA4blr1hTnNA3w6e-5" parent="4jv3EA4blr1hTnNA3w6e-4" style="html=1;shadow=0;dashed=0;fillColor=none;strokeColor=none;shape=mxgraph.bootstrap.rect;fontColor=#999999;fontSize=14;whiteSpace=wrap;" value="&lt;font style=&quot;&quot;&gt;&lt;strong data-start=&quot;338&quot; data-end=&quot;352&quot; style=&quot;font-size: 11px; text-align: left;&quot;&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;Vigil&lt;/font&gt;&lt;/strong&gt;&lt;b style=&quot;color: rgb(0, 0, 0); text-align: left;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;color: rgb(51, 51, 255); font-size: 8px;&quot;&gt;ENSA&lt;/font&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="24" width="71" y="-2" as="geometry" />
@@ -1512,45 +1491,48 @@
         </mxCell>
         <mxCell id="4jv3EA4blr1hTnNA3w6e-65" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeColor=#808080;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="4489" y="1678" as="sourcePoint" />
-            <mxPoint x="3856" y="1680" as="targetPoint" />
+            <mxPoint x="3714.5" y="1683.45" as="sourcePoint" />
+            <mxPoint x="3081.5" y="1685.45" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4jv3EA4blr1hTnNA3w6e-67" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Settings&lt;/font&gt;&lt;/b&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="3857" y="1645.56" as="geometry" />
+          <mxGeometry height="30" width="60" x="3082.5" y="1651.01" as="geometry" />
         </mxCell>
         <mxCell id="4jv3EA4blr1hTnNA3w6e-68" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeColor=#808080;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="4487" y="1768.06" as="sourcePoint" />
-            <mxPoint x="3854" y="1770.06" as="targetPoint" />
+            <mxPoint x="3712.5" y="1773.51" as="sourcePoint" />
+            <mxPoint x="3079.5" y="1775.51" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4jv3EA4blr1hTnNA3w6e-69" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Planning default settings" vertex="1">
-          <mxGeometry height="30" width="120" x="3840" y="1689.06" as="geometry" />
+          <mxGeometry height="30" width="120" x="3065.5" y="1694.51" as="geometry" />
         </mxCell>
         <mxCell id="4jv3EA4blr1hTnNA3w6e-70" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;span data-path-to-node=&quot;9,3,0&quot; data-index-in-node=&quot;0&quot; style=&quot;forced-color-adjust: none; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193)); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: transparent; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;b&gt;Buffer Time :&lt;/b&gt; 30 min &lt;/span&gt;&lt;span style=&quot;color: rgb(51, 51, 51); text-align: center; background-color: transparent;&quot;&gt;for cleaning/transition&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(51, 51, 51); text-align: center; background-color: transparent;&quot;&gt;&lt;span data-path-to-node=&quot;9,1,0&quot; data-index-in-node=&quot;0&quot; style=&quot;background-color: transparent; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193));&quot;&gt;&lt;b&gt;Time Slot : &lt;/b&gt;9:00 - 18:00&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(51, 51, 51); text-align: center; background-color: transparent;&quot;&gt;&lt;span data-path-to-node=&quot;9,1,0&quot; data-index-in-node=&quot;0&quot; style=&quot;background-color: transparent; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193));&quot;&gt;&lt;b&gt;Booking period&lt;/b&gt; : 4 days&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(51, 51, 51); text-align: center; background-color: transparent;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="79.94" width="330" x="3980" y="1680.06" as="geometry" />
+          <mxGeometry height="79.94" width="330" x="3205.5" y="1685.51" as="geometry" />
         </mxCell>
         <mxCell id="4jv3EA4blr1hTnNA3w6e-71" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeColor=#808080;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="4498.5" y="1856.61" as="sourcePoint" />
-            <mxPoint x="3865.5" y="1858.61" as="targetPoint" />
+            <mxPoint x="3724" y="1862.06" as="sourcePoint" />
+            <mxPoint x="3091" y="1864.06" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4jv3EA4blr1hTnNA3w6e-72" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Application MetaData" vertex="1">
-          <mxGeometry height="30" width="120" x="3851.5" y="1777.61" as="geometry" />
+          <mxGeometry height="30" width="120" x="3077" y="1783.06" as="geometry" />
         </mxCell>
         <mxCell id="4jv3EA4blr1hTnNA3w6e-73" parent="1" style="text;whiteSpace=wrap;align=center;fontStyle=0;fontColor=#3333FF;" value="Change buffer time" vertex="1">
-          <mxGeometry height="25.94" width="145" x="4354" y="1682.06" as="geometry" />
+          <mxGeometry height="25.94" width="145" x="3579.5" y="1687.51" as="geometry" />
         </mxCell>
         <mxCell id="4jv3EA4blr1hTnNA3w6e-74" parent="1" style="text;whiteSpace=wrap;align=center;fontStyle=0;fontColor=#3333FF;" value="Change Time Slot" vertex="1">
-          <mxGeometry height="25.94" width="145" x="4356" y="1697.06" as="geometry" />
+          <mxGeometry height="25.94" width="145" x="3581.5" y="1702.51" as="geometry" />
         </mxCell>
         <mxCell id="4jv3EA4blr1hTnNA3w6e-75" parent="1" style="text;whiteSpace=wrap;align=center;fontStyle=0;fontColor=#3333FF;" value="Change Booking period" vertex="1">
-          <mxGeometry height="25.94" width="145" x="4342" y="1714.1200000000001" as="geometry" />
+          <mxGeometry height="25.94" width="145" x="3567.5" y="1719.5700000000002" as="geometry" />
         </mxCell>
         <mxCell id="4jv3EA4blr1hTnNA3w6e-76" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;i need an advice.&lt;/p&gt;&lt;p&gt;after publishing the planning , the professors see the data and time and class their assessment was scheduled in.&lt;/p&gt;&lt;p&gt;i say that to seperate the concerns , the admin has all the power on the scheduling task , the prof can not argue on that , inless the prof wants to force another scheduling , then the app can not provide that , then they have to call the admin directly.&lt;/p&gt;&lt;p&gt;on the other hand, the professor is the only one who can modify th assessment information.&lt;/p&gt;&lt;p&gt;================&lt;/p&gt;&lt;p&gt;the process is as follows:&lt;/p&gt;&lt;p&gt;once the planning is published, the systo send their rectif, like if someone wants to delete their assessment , or update the duration, then this is there chance to do so.&lt;/p&gt;&lt;p&gt;those notifs will show in the review queue of the admin , the admin will do the necessery changes and and &lt;/p&gt;" vertex="1">
           <mxGeometry height="320" width="560" x="9247" y="1773.65" as="geometry" />
+        </mxCell>
+        <mxCell id="4jv3EA4blr1hTnNA3w6e-77" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;b data-path-to-node=&quot;9,3,0&quot; data-index-in-node=&quot;0&quot; style=&quot;forced-color-adjust: none; background-color: transparent; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193));&quot;&gt;Notes:&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b data-path-to-node=&quot;9,3,0&quot; data-index-in-node=&quot;0&quot; style=&quot;forced-color-adjust: none; background-color: transparent; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193));&quot;&gt;Buffer Time:&lt;/b&gt;&lt;span style=&quot;forced-color-adjust: none; background-color: transparent; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193));&quot;&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;Time between exams in the same room (e.g., 15 minutes for cleaning/transition).&lt;/span&gt;&lt;br style=&quot;forced-color-adjust: none;&quot;&gt;&lt;b data-path-to-node=&quot;9,4,0&quot; data-index-in-node=&quot;0&quot; style=&quot;forced-color-adjust: none; background-color: transparent; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193));&quot;&gt;Supervisor Ratio:&lt;/b&gt;&lt;span style=&quot;forced-color-adjust: none; background-color: transparent; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193));&quot;&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;Parameters defining how many invigilators are needed based on student count (e.g., 1 invigilator per 20 students).&lt;/span&gt;&lt;br style=&quot;forced-color-adjust: none;&quot;&gt;&lt;br style=&quot;forced-color-adjust: none;&quot;&gt;&lt;b data-path-to-node=&quot;9,2,0&quot; data-index-in-node=&quot;0&quot; style=&quot;forced-color-adjust: none; background-color: transparent; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193));&quot;&gt;Venue/Room Allocation:&lt;/b&gt;&lt;span style=&quot;forced-color-adjust: none; background-color: transparent; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193));&quot;&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;The physical room (e.g.,&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;i data-path-to-node=&quot;9,2,0&quot; data-index-in-node=&quot;48&quot; style=&quot;forced-color-adjust: none; background-color: transparent; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193));&quot;&gt;Amphi Central&lt;/i&gt;&lt;span style=&quot;forced-color-adjust: none; background-color: transparent; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193));&quot;&gt;,&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;i data-path-to-node=&quot;9,2,0&quot; data-index-in-node=&quot;63&quot; style=&quot;forced-color-adjust: none; background-color: transparent; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193));&quot;&gt;Salle 4&lt;/i&gt;&lt;span style=&quot;forced-color-adjust: none; background-color: transparent; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193));&quot;&gt;).&lt;/span&gt;&lt;br style=&quot;forced-color-adjust: none;&quot;&gt;&lt;b data-path-to-node=&quot;9,1,0&quot; data-index-in-node=&quot;0&quot; style=&quot;forced-color-adjust: none; background-color: transparent; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193));&quot;&gt;Time Slot: normal days vs ramadan&lt;/b&gt;&lt;br style=&quot;forced-color-adjust: none;&quot;&gt;&lt;br style=&quot;forced-color-adjust: none;&quot;&gt;&lt;br style=&quot;forced-color-adjust: none;&quot;&gt;&lt;b data-path-to-node=&quot;13,1,0&quot; data-index-in-node=&quot;0&quot; style=&quot;forced-color-adjust: none; background-color: transparent; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193));&quot;&gt;Capacity Limit:&lt;/b&gt;&lt;span style=&quot;forced-color-adjust: none; background-color: transparent; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193));&quot;&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;A parameter that prevents assigning 100 students to a room with only 60 seats.&lt;/span&gt;&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&lt;span style=&quot;forced-color-adjust: none; background-color: transparent; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193));&quot;&gt;&lt;br style=&quot;forced-color-adjust: none;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&lt;span style=&quot;forced-color-adjust: none; background-color: transparent; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193));&quot;&gt;fix 2 to 3 days of booking&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&lt;br style=&quot;forced-color-adjust: none; color: rgb(51, 51, 51); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="230" width="560" x="3820" y="1652.57" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
