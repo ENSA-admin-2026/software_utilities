@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.3" pages="2">
   <diagram name="Page-1" id="c9db0220-8083-56f3-ca83-edcdcd058819">
-    <mxGraphModel dx="-191" dy="2309.5" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2691" dy="3838.5" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" parent="0" style=";html=1;" />
@@ -1803,10 +1803,10 @@
         <mxCell id="ggyOR78xhZXoU5rlegxh-59" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="&lt;span style=&quot;caret-color: rgba(0, 0, 0, 0);&quot;&gt;Module d&#39;authentification (&lt;/span&gt;&lt;span style=&quot;caret-color: rgba(0, 0, 0, 0); text-wrap-mode: nowrap;&quot;&gt;Connexion Google)&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="280" x="7740" y="2740" as="geometry" />
         </mxCell>
-        <mxCell id="FaNHtCMUNE4k0Wdl8m4n-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="draft" vertex="1">
-          <mxGeometry height="30" width="60" x="3370" y="1944" as="geometry" />
+        <mxCell id="FaNHtCMUNE4k0Wdl8m4n-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;" value="draft (option will be removed if planning is published)" vertex="1">
+          <mxGeometry height="30" width="220" x="3210" y="1944" as="geometry" />
         </mxCell>
-        <mxCell id="FaNHtCMUNE4k0Wdl8m4n-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Released (shown if the planning is published )" vertex="1">
+        <mxCell id="FaNHtCMUNE4k0Wdl8m4n-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;" value="Released (option shown if the planning is published )" vertex="1">
           <mxGeometry height="30" width="180" x="3495" y="1950" as="geometry" />
         </mxCell>
         <mxCell id="fpx__CBvfAiEFlDLkXnb-2" parent="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#343A40;fontColor=#ffffff;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Draft&lt;/span&gt;" vertex="1">
