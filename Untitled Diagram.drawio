@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.3" pages="2">
   <diagram name="Page-1" id="c9db0220-8083-56f3-ca83-edcdcd058819">
-    <mxGraphModel dx="-30" dy="2395.5" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="-256" dy="2274.5" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" parent="0" style=";html=1;" />
@@ -1782,12 +1782,7 @@
         </mxCell>
         <mxCell id="FaNHtCMUNE4k0Wdl8m4n-5" edge="1" parent="1" source="kSO5NpzrY_VWl9UOyOXg-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3458.5" y="2150" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FaNHtCMUNE4k0Wdl8m4n-6" connectable="0" parent="FaNHtCMUNE4k0Wdl8m4n-5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Pre-prod" vertex="1">
-          <mxGeometry relative="1" x="1" y="14" as="geometry">
-            <mxPoint x="12" y="-13" as="offset" />
+            <mxPoint x="3459" y="2110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FaNHtCMUNE4k0Wdl8m4n-7" edge="1" parent="1" source="kSO5NpzrY_VWl9UOyOXg-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
@@ -1855,6 +1850,9 @@
         </mxCell>
         <mxCell id="fDXvYAD6LBSi64h1SiEN-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;" value="+ Statistic" vertex="1">
           <mxGeometry height="30" width="60" x="1580" y="2173.5" as="geometry" />
+        </mxCell>
+        <mxCell id="fDXvYAD6LBSi64h1SiEN-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;" value="&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap;&quot;&gt;Pre-prod: the professors&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;can see the schedualing decision&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="195" x="3369.5" y="2080" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
