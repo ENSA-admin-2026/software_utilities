@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.3" pages="2">
   <diagram name="Page-1" id="c9db0220-8083-56f3-ca83-edcdcd058819">
-    <mxGraphModel dx="-366" dy="2179.5" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1007" dy="2847.5" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" parent="0" style=";html=1;" />
@@ -2002,7 +2002,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fDXvYAD6LBSi64h1SiEN-292" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="554.68" width="470" x="3960" y="2675.32" as="geometry" />
+          <mxGeometry height="554.68" width="610" x="3960" y="2675.32" as="geometry" />
         </mxCell>
         <mxCell id="fDXvYAD6LBSi64h1SiEN-35" parent="fDXvYAD6LBSi64h1SiEN-292" style="html=1;rounded=1;fillColor=#ffffff;strokeColor=#DFE1E5;fontSize=12;align=left;fontColor=#000000;shadow=1;arcSize=1;whiteSpace=wrap;spacing=20;verticalAlign=top;spacingTop=30;pointerEvents=0;container=0;" value="&lt;p data-path-to-node=&quot;12,0&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="554.68" width="470" as="geometry" />
@@ -2083,6 +2083,9 @@
         </mxCell>
         <mxCell id="fDXvYAD6LBSi64h1SiEN-283" parent="fDXvYAD6LBSi64h1SiEN-292" style="html=1;dashed=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.gmdl.edit;strokeColor=none;fillColor=#737373;shadow=0;sketch=0;container=0;" value="" vertex="1">
           <mxGeometry height="13.701569122807015" width="13.701569122807015" x="131.25" y="239.77745964912287" as="geometry" />
+        </mxCell>
+        <mxCell id="fDXvYAD6LBSi64h1SiEN-293" parent="fDXvYAD6LBSi64h1SiEN-292" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;" value="Once the release button is clicked , all the settings will freeze" vertex="1">
+          <mxGeometry height="30" width="210" x="390" y="34.679999999999964" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
