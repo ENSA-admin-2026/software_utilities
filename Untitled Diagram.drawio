@@ -1788,8 +1788,8 @@
         <mxCell id="fDXvYAD6LBSi64h1SiEN-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;" value="released means the booking starts&amp;nbsp; (limited by a deadline defined in the settings section)&lt;div&gt;once the period is off , then the status will be&amp;nbsp;&lt;/div&gt;" vertex="1">
           <mxGeometry height="70" width="169" x="3748.5" y="2090" as="geometry" />
         </mxCell>
-        <mxCell id="fDXvYAD6LBSi64h1SiEN-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;" value="if the admin clicks on publish then the status will change to pre-prod (where the admin recieves the updates from professors, and apply the updates)&lt;div&gt;then when he clicks on release , then this changes the status of the planning to released this means the booking starts&amp;nbsp;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="130" width="260" x="2930" y="2020" as="geometry" />
+        <mxCell id="fDXvYAD6LBSi64h1SiEN-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;" value="if the admin clicks on share , the shcedualing decision will be seen by the profs. in addition ,the admin recieves the updates from professors, and applyies them accordinglly.&lt;div&gt;&lt;br&gt;&lt;div&gt;then when he clicks on release , then this changes the status of the planning to released this means the booking starts&amp;nbsp;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;(save and share buttons are no more actionable)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="160" width="260" x="2930" y="1990" as="geometry" />
         </mxCell>
         <mxCell id="fDXvYAD6LBSi64h1SiEN-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;" value="+ Statistic" vertex="1">
           <mxGeometry height="30" width="60" x="1580" y="2173.5" as="geometry" />
