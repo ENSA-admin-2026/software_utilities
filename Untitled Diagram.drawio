@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.3" pages="2">
   <diagram name="Page-1" id="c9db0220-8083-56f3-ca83-edcdcd058819">
-    <mxGraphModel dx="1209" dy="2342.5" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1310" dy="2391.5" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" parent="0" style=";html=1;" />
@@ -1889,7 +1889,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fDXvYAD6LBSi64h1SiEN-292" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="554.68" width="610" x="3960" y="2675.32" as="geometry" />
+          <mxGeometry height="554.68" width="770" x="3960" y="2675.32" as="geometry" />
         </mxCell>
         <mxCell id="fDXvYAD6LBSi64h1SiEN-35" parent="fDXvYAD6LBSi64h1SiEN-292" style="html=1;rounded=1;fillColor=#ffffff;strokeColor=#DFE1E5;fontSize=12;align=left;fontColor=#000000;shadow=1;arcSize=1;whiteSpace=wrap;spacing=20;verticalAlign=top;spacingTop=30;pointerEvents=0;container=0;" value="&lt;p data-path-to-node=&quot;12,0&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="554.68" width="470" as="geometry" />
@@ -1973,6 +1973,20 @@
         </mxCell>
         <mxCell id="fDXvYAD6LBSi64h1SiEN-293" parent="fDXvYAD6LBSi64h1SiEN-292" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;" value="Once the release button is clicked , all the settings will freeze" vertex="1">
           <mxGeometry height="30" width="210" x="400" y="67.30999999999995" as="geometry" />
+        </mxCell>
+        <mxCell id="fDXvYAD6LBSi64h1SiEN-518" parent="fDXvYAD6LBSi64h1SiEN-292" style="fillColor=none;strokeColor=none;html=1;fontSize=10;align=left;fontColor=#596780;fontStyle=1;fontSize=11;" value="&lt;font style=&quot;color: rgb(0, 0, 0); font-size: 10px;&quot;&gt;Booking Eligibility&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="240" x="222.5" y="212.29999999999978" as="geometry" />
+        </mxCell>
+        <mxCell id="fDXvYAD6LBSi64h1SiEN-523" parent="fDXvYAD6LBSi64h1SiEN-292" style="rounded=1;fillColor=#F0F2F5;strokeColor=#D8DCE3;fontColor=#000000;align=left;verticalAlign=middle;fontStyle=0;fontSize=10;labelPosition=right;verticalLabelPosition=middle;spacingLeft=10;html=1;shadow=0;dashed=0;" value="Both" vertex="1">
+          <mxGeometry height="12" width="12" x="223.75" y="236.89999999999964" as="geometry" />
+        </mxCell>
+        <mxCell id="fDXvYAD6LBSi64h1SiEN-524" parent="fDXvYAD6LBSi64h1SiEN-292" style="rounded=1;fillColor=#F0F2F5;strokeColor=#D8DCE3;fontColor=#000000;align=left;verticalAlign=middle;fontStyle=0;fontSize=10;labelPosition=right;verticalLabelPosition=middle;spacingLeft=10;html=1;shadow=0;dashed=0;" value="Monitors only" vertex="1">
+          <mxGeometry height="12" width="12" x="290.75" y="237.89999999999964" as="geometry" />
+        </mxCell>
+        <mxCell id="fDXvYAD6LBSi64h1SiEN-525" parent="fDXvYAD6LBSi64h1SiEN-292" style="html=1;shadow=0;dashed=0;shape=mxgraph.atlassian.check;strokeColor=#82b366;sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#d5e8d4;" value="" vertex="1">
+          <mxGeometry height="5" width="6" x="226.75" y="240.89999999999964" as="geometry">
+            <mxPoint x="18" y="-131" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="fDXvYAD6LBSi64h1SiEN-295" parent="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;fillColor=#f5f5f5;strokeColor=#666666;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#333333;align=center;container=0;" value="" vertex="1">
           <mxGeometry height="360" width="710" x="4270" y="2193.5" as="geometry" />
@@ -2306,6 +2320,20 @@
         </mxCell>
         <mxCell id="fDXvYAD6LBSi64h1SiEN-517" parent="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.atlassian.check;strokeColor=#82b366;sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#d5e8d4;" value="" vertex="1">
           <mxGeometry height="5" width="6" x="4508" y="1836" as="geometry">
+            <mxPoint x="18" y="-131" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fDXvYAD6LBSi64h1SiEN-519" parent="1" style="fillColor=none;strokeColor=none;html=1;fontSize=10;align=left;fontColor=#596780;fontStyle=0;fontSize=11;" value="&lt;p data-start=&quot;875&quot; data-end=&quot;951&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Define which roles are allowed to book invigilation slots for this planning.&lt;/font&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="20" width="280" x="4620" y="3258" as="geometry" />
+        </mxCell>
+        <mxCell id="fDXvYAD6LBSi64h1SiEN-520" parent="1" style="rounded=1;fillColor=#F0F2F5;strokeColor=#D8DCE3;fontColor=#000000;align=left;verticalAlign=middle;fontStyle=0;fontSize=10;labelPosition=right;verticalLabelPosition=middle;spacingLeft=10;html=1;shadow=0;dashed=0;" value="Both" vertex="1">
+          <mxGeometry height="12" width="12" x="4625" y="3287" as="geometry" />
+        </mxCell>
+        <mxCell id="fDXvYAD6LBSi64h1SiEN-521" parent="1" style="rounded=1;fillColor=#F0F2F5;strokeColor=#D8DCE3;fontColor=#000000;align=left;verticalAlign=middle;fontStyle=0;fontSize=10;labelPosition=right;verticalLabelPosition=middle;spacingLeft=10;html=1;shadow=0;dashed=0;" value="Monitors only" vertex="1">
+          <mxGeometry height="12" width="12" x="4625" y="3312" as="geometry" />
+        </mxCell>
+        <mxCell id="fDXvYAD6LBSi64h1SiEN-522" parent="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.atlassian.check;strokeColor=#82b366;sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#d5e8d4;" value="" vertex="1">
+          <mxGeometry height="5" width="6" x="4628" y="3291" as="geometry">
             <mxPoint x="18" y="-131" as="offset" />
           </mxGeometry>
         </mxCell>
