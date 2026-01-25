@@ -1974,8 +1974,8 @@
         <mxCell id="fDXvYAD6LBSi64h1SiEN-293" parent="fDXvYAD6LBSi64h1SiEN-292" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;" value="Once the release button is clicked , all the settings will freeze" vertex="1">
           <mxGeometry height="30" width="210" x="400" y="67.30999999999995" as="geometry" />
         </mxCell>
-        <mxCell id="fDXvYAD6LBSi64h1SiEN-518" parent="fDXvYAD6LBSi64h1SiEN-292" style="fillColor=none;strokeColor=none;html=1;fontSize=10;align=left;fontColor=#596780;fontStyle=1;fontSize=11;" value="&lt;font style=&quot;color: rgb(0, 0, 0); font-size: 10px;&quot;&gt;Booking Eligibility&lt;/font&gt;" vertex="1">
-          <mxGeometry height="20" width="240" x="222.5" y="212.29999999999978" as="geometry" />
+        <mxCell id="fDXvYAD6LBSi64h1SiEN-518" parent="fDXvYAD6LBSi64h1SiEN-292" style="fillColor=none;strokeColor=none;html=1;fontSize=10;align=left;fontColor=#596780;fontStyle=1;fontSize=11;" value="&lt;font style=&quot;color: rgb(0, 0, 0); font-size: 12px;&quot;&gt;Booking Eligibility&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="157.5" x="222.5" y="212.3" as="geometry" />
         </mxCell>
         <mxCell id="fDXvYAD6LBSi64h1SiEN-523" parent="fDXvYAD6LBSi64h1SiEN-292" style="rounded=1;fillColor=#F0F2F5;strokeColor=#D8DCE3;fontColor=#000000;align=left;verticalAlign=middle;fontStyle=0;fontSize=10;labelPosition=right;verticalLabelPosition=middle;spacingLeft=10;html=1;shadow=0;dashed=0;" value="Both" vertex="1">
           <mxGeometry height="12" width="12" x="223.75" y="236.89999999999964" as="geometry" />
