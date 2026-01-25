@@ -2666,10 +2666,10 @@
         <mxCell id="fDXvYAD6LBSi64h1SiEN-981" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="19" width="211" x="2394.75" y="4490.58" as="geometry" />
         </mxCell>
-        <mxCell id="fDXvYAD6LBSi64h1SiEN-982" parent="fDXvYAD6LBSi64h1SiEN-981" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B3B3B3;" value="" vertex="1">
+        <mxCell id="fDXvYAD6LBSi64h1SiEN-982" parent="fDXvYAD6LBSi64h1SiEN-981" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#007FFF;" value="" vertex="1">
           <mxGeometry height="19.000000000000032" width="211" as="geometry" />
         </mxCell>
-        <mxCell id="fDXvYAD6LBSi64h1SiEN-983" parent="fDXvYAD6LBSi64h1SiEN-981" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;2:00 - 3:00&lt;/span&gt;" vertex="1">
+        <mxCell id="fDXvYAD6LBSi64h1SiEN-983" parent="fDXvYAD6LBSi64h1SiEN-981" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;2:00 - 3:00&lt;/font&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="9.600808489135945" width="50" x="3" y="4.699595755431801" as="geometry" />
         </mxCell>
         <mxCell id="fDXvYAD6LBSi64h1SiEN-984" parent="fDXvYAD6LBSi64h1SiEN-981" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;strokeWidth=0;fillColor=#E6E6E6;" value="1/5 confirmed" vertex="1">
@@ -2695,6 +2695,9 @@
         </mxCell>
         <mxCell id="fDXvYAD6LBSi64h1SiEN-991" parent="fDXvYAD6LBSi64h1SiEN-988" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;strokeWidth=0;fillColor=#E6E6E6;container=0;" value="2/3 confirmed" vertex="1">
           <mxGeometry height="11" width="71.5" x="53" y="4" as="geometry" />
+        </mxCell>
+        <mxCell id="fDXvYAD6LBSi64h1SiEN-992" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;" value="the phd student is allowed to engage once in each card" vertex="1">
+          <mxGeometry height="30" width="250" x="3026" y="4061.58" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
