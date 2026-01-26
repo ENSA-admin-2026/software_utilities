@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.3" pages="2">
   <diagram name="Page-1" id="c9db0220-8083-56f3-ca83-edcdcd058819">
-    <mxGraphModel dx="873" dy="2179.5" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1048" dy="2264.5" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" parent="0" style=";html=1;" />
@@ -2931,22 +2931,22 @@
           <mxGeometry height="24" width="57.429838709677426" x="122.24812865185638" as="geometry" />
         </mxCell>
         <mxCell id="fDXvYAD6LBSi64h1SiEN-1080" parent="1" style="text;whiteSpace=wrap;align=center;fontStyle=0;fontColor=#1A1A1A;" value="1" vertex="1">
-          <mxGeometry height="40" width="145" x="1521.25" y="4472.08" as="geometry" />
+          <mxGeometry height="40" width="145" x="1521.25" y="4486.08" as="geometry" />
         </mxCell>
         <mxCell id="fDXvYAD6LBSi64h1SiEN-1081" parent="1" style="text;whiteSpace=wrap;html=1;align=center;fontStyle=1" value="Sessions ID" vertex="1">
-          <mxGeometry height="30" width="91" x="1551.25" y="4440.08" as="geometry" />
+          <mxGeometry height="30" width="91" x="1551.25" y="4454.08" as="geometry" />
         </mxCell>
         <mxCell id="fDXvYAD6LBSi64h1SiEN-1084" parent="1" style="text;whiteSpace=wrap;html=1;align=center;fontStyle=1" value="Day" vertex="1">
-          <mxGeometry height="30" width="91" x="1662.25" y="4440.08" as="geometry" />
+          <mxGeometry height="30" width="91" x="1662.25" y="4454.08" as="geometry" />
         </mxCell>
         <mxCell id="fDXvYAD6LBSi64h1SiEN-1085" parent="1" style="text;whiteSpace=wrap;align=center;" value="20 Nov 2025  " vertex="1">
-          <mxGeometry height="30" width="151" x="1635.25" y="4472.08" as="geometry" />
+          <mxGeometry height="30" width="151" x="1635.25" y="4486.08" as="geometry" />
         </mxCell>
         <mxCell id="fDXvYAD6LBSi64h1SiEN-1089" parent="1" style="text;whiteSpace=wrap;align=center;fontStyle=0;fontColor=#1A1A1A;" value="2" vertex="1">
-          <mxGeometry height="40" width="145" x="1520.25" y="4507.66" as="geometry" />
+          <mxGeometry height="40" width="145" x="1520.25" y="4521.66" as="geometry" />
         </mxCell>
         <mxCell id="fDXvYAD6LBSi64h1SiEN-1090" parent="1" style="text;whiteSpace=wrap;align=center;" value="21 Nov 2025  " vertex="1">
-          <mxGeometry height="30" width="145" x="1636.25" y="4512.66" as="geometry" />
+          <mxGeometry height="30" width="145" x="1636.25" y="4526.66" as="geometry" />
         </mxCell>
         <mxCell id="fDXvYAD6LBSi64h1SiEN-1103" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="42" width="710.5024269005849" x="1542" y="4358.5" as="geometry" />
@@ -2961,13 +2961,25 @@
           <mxGeometry height="20" width="51.937134502923975" x="208.7872807017543" y="11.289999999999964" as="geometry" />
         </mxCell>
         <mxCell id="fDXvYAD6LBSi64h1SiEN-1113" parent="1" style="text;whiteSpace=wrap;html=1;align=center;fontStyle=1" value="Time" vertex="1">
-          <mxGeometry height="30" width="91" x="1780.25" y="4442.5" as="geometry" />
+          <mxGeometry height="30" width="91" x="1780.25" y="4456.5" as="geometry" />
         </mxCell>
         <mxCell id="fDXvYAD6LBSi64h1SiEN-1114" parent="1" style="text;whiteSpace=wrap;align=center;fontSize=12;" value="2:00 PM to 4:00 PM" vertex="1">
-          <mxGeometry height="30" width="151" x="1753.25" y="4474.5" as="geometry" />
+          <mxGeometry height="30" width="151" x="1753.25" y="4488.5" as="geometry" />
         </mxCell>
         <mxCell id="fDXvYAD6LBSi64h1SiEN-1116" parent="1" style="text;whiteSpace=wrap;align=center;fontSize=12;" value="1:00 PM to 2:30 PM" vertex="1">
-          <mxGeometry height="30" width="151" x="1750.25" y="4512.08" as="geometry" />
+          <mxGeometry height="30" width="151" x="1750.25" y="4526.08" as="geometry" />
+        </mxCell>
+        <mxCell id="fDXvYAD6LBSi64h1SiEN-1117" parent="1" style="text;whiteSpace=wrap;html=1;align=center;fontStyle=1" value="Location" vertex="1">
+          <mxGeometry height="30" width="91" x="1912" y="4462.08" as="geometry" />
+        </mxCell>
+        <mxCell id="fDXvYAD6LBSi64h1SiEN-1118" parent="1" style="text;whiteSpace=wrap;align=center;fontSize=12;" value="Amphi A" vertex="1">
+          <mxGeometry height="30" width="151" x="1885" y="4494.08" as="geometry" />
+        </mxCell>
+        <mxCell id="fDXvYAD6LBSi64h1SiEN-1120" parent="1" style="text;whiteSpace=wrap;align=center;fontSize=12;" value="Amphi A" vertex="1">
+          <mxGeometry height="30" width="151" x="1882.5" y="4523.5" as="geometry" />
+        </mxCell>
+        <mxCell id="fDXvYAD6LBSi64h1SiEN-1121" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;font color=&quot;#333333&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;Booked sessions&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="197.5" x="1562" y="4421" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
