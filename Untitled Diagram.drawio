@@ -3098,6 +3098,9 @@
         <mxCell id="fDXvYAD6LBSi64h1SiEN-1182" parent="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#B3B3B3;fontColor=#ffffff;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Scan&lt;/span&gt;" vertex="1">
           <mxGeometry height="20" width="74.5" x="2089.25" y="4713.71" as="geometry" />
         </mxCell>
+        <mxCell id="fDXvYAD6LBSi64h1SiEN-1184" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="The students will recieve an email reminding them to check their presence" vertex="1">
+          <mxGeometry height="60" width="265" x="1860" y="4749" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
