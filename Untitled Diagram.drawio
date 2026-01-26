@@ -2999,7 +2999,7 @@
         <mxCell id="fDXvYAD6LBSi64h1SiEN-1164" parent="1" style="text;whiteSpace=wrap;align=center;fontStyle=0;fontColor=#1A1A1A;" value="2" vertex="1">
           <mxGeometry height="40" width="145" x="1481" y="4708.66" as="geometry" />
         </mxCell>
-        <mxCell id="fDXvYAD6LBSi64h1SiEN-1165" parent="1" style="text;whiteSpace=wrap;align=center;" value="21 Nov 2025  " vertex="1">
+        <mxCell id="fDXvYAD6LBSi64h1SiEN-1165" parent="1" style="text;whiteSpace=wrap;align=center;" value="20 Nov 2025  " vertex="1">
           <mxGeometry height="30" width="145" x="1665" y="4713.66" as="geometry" />
         </mxCell>
         <mxCell id="fDXvYAD6LBSi64h1SiEN-1166" parent="1" style="text;whiteSpace=wrap;html=1;align=center;fontStyle=1" value="Time" vertex="1">
@@ -3008,7 +3008,7 @@
         <mxCell id="fDXvYAD6LBSi64h1SiEN-1167" parent="1" style="text;whiteSpace=wrap;align=center;fontSize=12;" value="2:00 PM to 4:00 PM" vertex="1">
           <mxGeometry height="30" width="151" x="1782" y="4676.5" as="geometry" />
         </mxCell>
-        <mxCell id="fDXvYAD6LBSi64h1SiEN-1168" parent="1" style="text;whiteSpace=wrap;align=center;fontSize=12;" value="1:00 PM to 2:30 PM" vertex="1">
+        <mxCell id="fDXvYAD6LBSi64h1SiEN-1168" parent="1" style="text;whiteSpace=wrap;align=center;fontSize=12;" value="4:00 PM to 5:30 PM" vertex="1">
           <mxGeometry height="30" width="151" x="1781" y="4713.08" as="geometry" />
         </mxCell>
         <mxCell id="fDXvYAD6LBSi64h1SiEN-1169" parent="1" style="text;whiteSpace=wrap;html=1;align=center;fontStyle=1" value="Location" vertex="1">
@@ -3017,7 +3017,7 @@
         <mxCell id="fDXvYAD6LBSi64h1SiEN-1170" parent="1" style="text;whiteSpace=wrap;align=center;fontSize=12;" value="Amphi A" vertex="1">
           <mxGeometry height="30" width="151" x="1913.75" y="4681.08" as="geometry" />
         </mxCell>
-        <mxCell id="fDXvYAD6LBSi64h1SiEN-1171" parent="1" style="text;whiteSpace=wrap;align=center;fontSize=12;" value="Amphi A" vertex="1">
+        <mxCell id="fDXvYAD6LBSi64h1SiEN-1171" parent="1" style="text;whiteSpace=wrap;align=center;fontSize=12;" value="C1" vertex="1">
           <mxGeometry height="30" width="151" x="1911.25" y="4710.5" as="geometry" />
         </mxCell>
         <mxCell id="fDXvYAD6LBSi64h1SiEN-1172" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;font color=&quot;#333333&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Booked sessions:&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;text-align: center;&quot;&gt;&lt;font style=&quot;color: rgb(26, 26, 26);&quot;&gt;TP-exam-2026&lt;/font&gt;&lt;/span&gt;" vertex="1">
