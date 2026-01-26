@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.3" pages="2">
   <diagram name="Page-1" id="c9db0220-8083-56f3-ca83-edcdcd058819">
-    <mxGraphModel dx="1123" dy="2300.5" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="873" dy="2179.5" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" parent="0" style=";html=1;" />
@@ -2905,6 +2905,69 @@
         </mxCell>
         <mxCell id="fDXvYAD6LBSi64h1SiEN-1068" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="this refers to the number of users that are actively booking this session" vertex="1">
           <mxGeometry height="60" width="226" x="2320" y="4640" as="geometry" />
+        </mxCell>
+        <mxCell id="fDXvYAD6LBSi64h1SiEN-1070" parent="1" style="text;whiteSpace=wrap;html=1;align=center;fontStyle=1" value="Actions" vertex="1">
+          <mxGeometry height="30" width="91" x="2127" y="4029.71" as="geometry" />
+        </mxCell>
+        <mxCell id="fDXvYAD6LBSi64h1SiEN-1071" parent="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#343A40;fontColor=#ffffff;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Book&lt;/span&gt;" vertex="1">
+          <mxGeometry height="20" width="74.5" x="2142.5" y="4061.71" as="geometry" />
+        </mxCell>
+        <mxCell id="fDXvYAD6LBSi64h1SiEN-1073" parent="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;fillColor=#f5f5f5;strokeColor=#666666;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#333333;align=center;container=0;" value="" vertex="1">
+          <mxGeometry height="360" width="752.25" x="1501.25" y="4320.08" as="geometry" />
+        </mxCell>
+        <mxCell id="fDXvYAD6LBSi64h1SiEN-1074" parent="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;fillColor=#222222;strokeColor=none;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#000000;align=center;" value="" vertex="1">
+          <mxGeometry height="24" width="752.25" x="1501.25" y="4333.58" as="geometry" />
+        </mxCell>
+        <mxCell id="fDXvYAD6LBSi64h1SiEN-1075" parent="fDXvYAD6LBSi64h1SiEN-1074" style="html=1;shadow=0;dashed=0;fillColor=none;strokeColor=none;shape=mxgraph.bootstrap.rect;fontColor=#999999;fontSize=14;whiteSpace=wrap;" value="&lt;font style=&quot;&quot;&gt;&lt;strong data-start=&quot;338&quot; data-end=&quot;352&quot; style=&quot;font-size: 11px; text-align: left;&quot;&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;Vigil&lt;/font&gt;&lt;/strong&gt;&lt;b style=&quot;color: rgb(0, 0, 0); text-align: left;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;color: rgb(51, 51, 255); font-size: 8px;&quot;&gt;ENSA&lt;/font&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="24" width="75.22500000000001" y="-2" as="geometry" />
+        </mxCell>
+        <mxCell id="fDXvYAD6LBSi64h1SiEN-1076" parent="fDXvYAD6LBSi64h1SiEN-1074" style="html=1;shadow=0;dashed=0;fillColor=none;strokeColor=none;shape=mxgraph.bootstrap.rect;fontColor=#CCCCCC;whiteSpace=wrap;fontSize=10;" value="Profile" vertex="1">
+          <mxGeometry height="24" width="65.821875" x="638.2727272727274" as="geometry" />
+        </mxCell>
+        <mxCell id="fDXvYAD6LBSi64h1SiEN-1077" parent="fDXvYAD6LBSi64h1SiEN-1074" style="html=1;shadow=0;dashed=0;fillColor=none;strokeColor=none;shape=mxgraph.bootstrap.rect;fontColor=#CCCCCC;whiteSpace=wrap;fontSize=10;" value="Log Out" vertex="1">
+          <mxGeometry height="24" width="65.821875" x="686.428125" as="geometry" />
+        </mxCell>
+        <mxCell id="fDXvYAD6LBSi64h1SiEN-1078" parent="fDXvYAD6LBSi64h1SiEN-1074" style="html=1;shadow=0;dashed=0;fillColor=none;strokeColor=none;shape=mxgraph.bootstrap.rect;fontColor=#FFFFFF;whiteSpace=wrap;fontSize=10;" value="&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;&lt;span data-start=&quot;145&quot; data-end=&quot;161&quot; style=&quot;text-align: left;&quot;&gt;Invigilation&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;&quot;&gt;Registry&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="24" width="57.429838709677426" x="122.24812865185638" as="geometry" />
+        </mxCell>
+        <mxCell id="fDXvYAD6LBSi64h1SiEN-1080" parent="1" style="text;whiteSpace=wrap;align=center;fontStyle=0;fontColor=#1A1A1A;" value="1" vertex="1">
+          <mxGeometry height="40" width="145" x="1521.25" y="4472.08" as="geometry" />
+        </mxCell>
+        <mxCell id="fDXvYAD6LBSi64h1SiEN-1081" parent="1" style="text;whiteSpace=wrap;html=1;align=center;fontStyle=1" value="Sessions ID" vertex="1">
+          <mxGeometry height="30" width="91" x="1551.25" y="4440.08" as="geometry" />
+        </mxCell>
+        <mxCell id="fDXvYAD6LBSi64h1SiEN-1084" parent="1" style="text;whiteSpace=wrap;html=1;align=center;fontStyle=1" value="Day" vertex="1">
+          <mxGeometry height="30" width="91" x="1662.25" y="4440.08" as="geometry" />
+        </mxCell>
+        <mxCell id="fDXvYAD6LBSi64h1SiEN-1085" parent="1" style="text;whiteSpace=wrap;align=center;" value="20 Nov 2025  " vertex="1">
+          <mxGeometry height="30" width="151" x="1635.25" y="4472.08" as="geometry" />
+        </mxCell>
+        <mxCell id="fDXvYAD6LBSi64h1SiEN-1089" parent="1" style="text;whiteSpace=wrap;align=center;fontStyle=0;fontColor=#1A1A1A;" value="2" vertex="1">
+          <mxGeometry height="40" width="145" x="1520.25" y="4507.66" as="geometry" />
+        </mxCell>
+        <mxCell id="fDXvYAD6LBSi64h1SiEN-1090" parent="1" style="text;whiteSpace=wrap;align=center;" value="21 Nov 2025  " vertex="1">
+          <mxGeometry height="30" width="145" x="1636.25" y="4512.66" as="geometry" />
+        </mxCell>
+        <mxCell id="fDXvYAD6LBSi64h1SiEN-1103" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="42" width="710.5024269005849" x="1542" y="4358.5" as="geometry" />
+        </mxCell>
+        <mxCell id="fDXvYAD6LBSi64h1SiEN-1104" parent="fDXvYAD6LBSi64h1SiEN-1103" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;container=0;" value="" vertex="1">
+          <mxGeometry height="42" width="750.5" x="-40" as="geometry" />
+        </mxCell>
+        <mxCell id="fDXvYAD6LBSi64h1SiEN-1105" parent="fDXvYAD6LBSi64h1SiEN-1103" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;container=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Planning :&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;span&gt;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;normal-session-2025&lt;/font&gt;&lt;/span&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="238.91081871345028" x="10.387426900584614" y="7.850000000000364" as="geometry" />
+        </mxCell>
+        <mxCell id="fDXvYAD6LBSi64h1SiEN-1106" parent="fDXvYAD6LBSi64h1SiEN-1103" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#343A40;fontColor=#ffffff;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;container=0;" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Active&lt;/span&gt;" vertex="1">
+          <mxGeometry height="20" width="51.937134502923975" x="208.7872807017543" y="11.289999999999964" as="geometry" />
+        </mxCell>
+        <mxCell id="fDXvYAD6LBSi64h1SiEN-1113" parent="1" style="text;whiteSpace=wrap;html=1;align=center;fontStyle=1" value="Time" vertex="1">
+          <mxGeometry height="30" width="91" x="1780.25" y="4442.5" as="geometry" />
+        </mxCell>
+        <mxCell id="fDXvYAD6LBSi64h1SiEN-1114" parent="1" style="text;whiteSpace=wrap;align=center;fontSize=12;" value="2:00 PM to 4:00 PM" vertex="1">
+          <mxGeometry height="30" width="151" x="1753.25" y="4474.5" as="geometry" />
+        </mxCell>
+        <mxCell id="fDXvYAD6LBSi64h1SiEN-1116" parent="1" style="text;whiteSpace=wrap;align=center;fontSize=12;" value="1:00 PM to 2:30 PM" vertex="1">
+          <mxGeometry height="30" width="151" x="1750.25" y="4512.08" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
