@@ -3272,7 +3272,7 @@
         <mxCell id="fDXvYAD6LBSi64h1SiEN-1274" parent="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#b85450;strokeWidth=1;fillColor=#f8cecc;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Abs&lt;/span&gt;" vertex="1">
           <mxGeometry height="20" width="74.5" x="2033.63" y="5198.29" as="geometry" />
         </mxCell>
-        <mxCell id="fDXvYAD6LBSi64h1SiEN-1275" parent="1" style="text;whiteSpace=wrap;align=center;" value="In progress" vertex="1">
+        <mxCell id="fDXvYAD6LBSi64h1SiEN-1275" parent="1" style="text;whiteSpace=wrap;align=center;" value="Ended" vertex="1">
           <mxGeometry height="30" width="82.75" x="1589.88" y="5227.5" as="geometry" />
         </mxCell>
         <mxCell id="fDXvYAD6LBSi64h1SiEN-1276" parent="1" style="text;whiteSpace=wrap;html=1;align=center;fontStyle=1" value="Status" vertex="1">
