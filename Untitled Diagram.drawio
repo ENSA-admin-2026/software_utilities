@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.3" pages="2">
   <diagram name="Page-1" id="c9db0220-8083-56f3-ca83-edcdcd058819">
-    <mxGraphModel dx="629" dy="2059.5" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="366" dy="1931.5" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" parent="0" style=";html=1;" />
@@ -1639,8 +1639,8 @@
             <mxPoint x="3609.5" y="2218" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fDXvYAD6LBSi64h1SiEN-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;" value="&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap;&quot;&gt;Status Draft : the professors&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;can see the schedualing decision&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="195" x="3529.5" y="2090" as="geometry" />
+        <mxCell id="fDXvYAD6LBSi64h1SiEN-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;" value="&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap;&quot;&gt;Status Draft : the professors&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;can see the schedualing decision.&lt;br&gt;Can be clicked multiple times&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;to share changes with professors&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="320.5" x="3529.5" y="2090" as="geometry" />
         </mxCell>
         <mxCell id="fDXvYAD6LBSi64h1SiEN-133" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="21.860000000000127" width="25" x="3730" y="2260" as="geometry" />
@@ -3685,7 +3685,7 @@
           <mxGeometry height="5" width="5" x="2" y="6.5" as="geometry" />
         </mxCell>
         <mxCell id="fDXvYAD6LBSi64h1SiEN-1611" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="200" width="310" x="3220" y="2700" as="geometry" />
+          <mxGeometry height="200" width="310" x="2650" y="2670" as="geometry" />
         </mxCell>
         <mxCell id="vBbr040QneaDCDul8ysK-2" parent="fDXvYAD6LBSi64h1SiEN-1611" style="rounded=0;whiteSpace=wrap;html=1;container=0;" value="" vertex="1">
           <mxGeometry height="200" width="310" as="geometry" />
