@@ -12316,7 +12316,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="e-PzbdJR-VF6uFgp85-S" name="branching and production">
-    <mxGraphModel dx="1965" dy="1043" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1580" dy="851" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -12643,6 +12643,9 @@
         </mxCell>
         <mxCell id="ToziAod5hKO4RoWGEOqy-107" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/SQL_Server.svg;" value="" vertex="1">
           <mxGeometry height="28" width="28" x="844" y="212" as="geometry" />
+        </mxCell>
+        <mxCell id="k3jJIJU6MkATZDeBs3zM-1" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;span&gt;The Frontend is deployed as a &lt;/span&gt;&lt;strong&gt;&lt;span&gt;static website on Azure Storage&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;, not as a container or an App Service.&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="200" x="930" y="710" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
